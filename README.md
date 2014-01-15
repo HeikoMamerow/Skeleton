@@ -1,4 +1,4 @@
 SkeletonWP
 ==========
 
-Just another wordpress theme based on skeleton.
+Just another try for a wordpress theme based on skeleton.
